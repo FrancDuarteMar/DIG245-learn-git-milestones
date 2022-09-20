@@ -288,7 +288,7 @@ Item # | Description | Completed
 2c | Full path to your working directory |`C:\Users\fashx\Sites\critical-web-design\DIG245-learn-git-milestones\DIG245-learn-git-milestones`
 2d | Link to `commit #3 from CLI` |[Link to Commit #3](https://github.com/FrancDuarteMar/DIG245-learn-git-milestones/commit/8cedd3cfa82f3a8d3c373f05437382fbe15ddd1f)
 2e | 3rd Favorite emoji |🎉
-2f | Link to `commit #4 from Atom` |
+2f | Link to `commit #4 from Atom` |[Link to Commit #4](https://github.com/FrancDuarteMar/DIG245-learn-git-milestones/commit/aafe713d3ef33708cdb5ad5fb772f5f0e0c242fc)
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
 
